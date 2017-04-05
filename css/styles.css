@@ -1,0 +1,122 @@
+body {
+	margin-top: 55px;
+	position: relative;
+}
+
+.jumbotron {
+	background-image: url(http://res.cloudinary.com/bobhoman/image/upload/v1488911372/webReadyImg_nh9iqt.gif);
+	background-size: cover; 
+	height: 400px;
+	min-width: 280px;
+}
+
+.brace {
+	font-weight: bold;
+}
+
+.head-font {
+	color: white;
+	text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+}
+
+.head-h1 {
+	margin-top: 90px;
+}
+
+hr {
+	background: white;
+	height: 2px;
+	text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+	width: 35%;
+	border: 1px solid black;
+	margin: 10px auto;
+}
+
+.img-small {
+  width: 220px;
+  height: auto;
+  display: block;
+  margin: 0 20px 10px 0;
+  border-radius: 50%;
+  border: solid;
+
+}
+
+p {
+	font-size: 17px;
+	text-indent: 40px;
+}
+
+h3 {
+  text-decoration: underline;
+  margin-bottom: 30px;
+}
+
+footer {
+	margin-top: 30px;
+	/*margin-bottom: 20px;*/
+	padding-bottom: 30px;
+		background: #C0C0C0;
+}
+
+.btn {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.btn-github {
+	background: #24292e;
+	color: white;
+}
+
+.btn-linkedin {
+	background: #0077B5;
+	color: white;
+}
+
+.btn-facebook {
+	background: #3B5998;
+	color: white;
+}
+
+.btn-twitter {
+	background: #00aced;
+	color: white;
+}
+
+.div-footer {
+	/*background: pink;
+	border: 1px solid black;*/
+	height: 150px;
+}
+
+.div-footer p {
+    text-indent: 0px;
+
+}
+
+.foot-header {
+	font-size: 65px;
+}
+
+.foot-p {
+	text-indent: 0px;
+}
+
+.rounded {
+	border-radius: 5px;
+	border: 1px solid black;
+	padding: 3px;
+	color: white;
+	background: grey;
+}
+
+a:hover {
+	text-decoration: none !important;
+	color: white !important;
+}
+
+.thumb-img {
+	width: 400px !important;
+	height: 198px !important;
+}
