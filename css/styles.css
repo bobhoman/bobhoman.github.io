@@ -64,22 +64,26 @@ footer {
 	margin-bottom: 15px;
 }
 
-.btn-github {
+.btn-github,
+.btn-github:visited {
 	background: #24292e;
 	color: white;
 }
 
-.btn-linkedin {
+.btn-linkedin,
+.btn-linkedin:visited {
 	background: #0077B5;
 	color: white;
 }
 
-.btn-facebook {
+.btn-facebook,
+.btn-facebook:visited {
 	background: #3B5998;
 	color: white;
 }
 
-.btn-twitter {
+.btn-twitter,
+.btn-twitter:visited {
 	background: #005E8F;
 	color: white;
 }
